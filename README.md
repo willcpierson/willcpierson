@@ -1,4 +1,6 @@
-### Hi there 👋
+### Hi there 👋 my name is Will, and I'm a Fullstack Software Engineer versed in Ruby/Rails, JavaScript, React/Redux, and more! I have a passion for esports, and am currently working on a project to help those in the Fighting Game Community (FGC) and new players watching tournaments to find their local scene. I've noticed the biggest obstacle to new players entering the scene is "I don't know how to find tournaments near me". My app, Local Locator, will remove those barriers and help find tournaments of any fighting game with just a few clicks.
+
+I am also passionate about cycling and meeting new people, so feel free to hit me up if you are interested in collaborating on any future or existing projects I may be working on... or that you are! :)
 
 <!--
 **willcpierson/willcpierson** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
