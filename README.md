@@ -34,6 +34,8 @@
 
 <h2>Contact Me!</h2>
 <a href="https://www.linkedin.com/in/will-pierson-63a86318a/"><img src="https://github.com/devicons/devicon/blob/master/icons/linkedin/linkedin-original.svg" title="LinkedIn" alt="LinkedIn" height="40" width="40"></a>
+<a href="<a href="mailto:willcpierson@gmail.com"><img src="https://raw.githubusercontent.com/github/explore/8f19e4dbbf13418dc1b1d58bb265953553c15a46/topics/gmail/gmail.png" title="Gmail" alt="Gmail" height="40" width="40">
+
 <!--
 **willcpierson/willcpierson** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
