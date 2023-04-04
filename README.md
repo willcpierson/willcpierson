@@ -33,7 +33,7 @@
 <p> 🎮 eSports 🎮 🚴 Cycling 🚴‍♂️ 🎤 Karaoke 🎤</p>
 
 <h2>Contact Me!</h2>
-<a href="https://www.linkedin.com/in/will-pierson-63a86318a/"<img></a>
+<a href="https://www.linkedin.com/in/will-pierson-63a86318a/"><img src="https://github.com/devicons/devicon/blob/master/icons/linkedin/linkedin-original.svg" title="LinkedIn" alt="LinkedIn" height="40" width="40"></a>
 <!--
 **willcpierson/willcpierson** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
