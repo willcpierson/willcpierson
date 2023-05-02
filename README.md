@@ -7,7 +7,7 @@
 <a href="https://willcpierson.github.io/local-locator-app/"> 🗺️ Local Locator (Beta) 🗺️</a>
 <p>A vanilla JavaScript application to help users find local video game tournaments!</p>
 
-<a href="https://kelpfullstack.onrender.com/">🎣 Kelp 🐟</a>
+<a href="https://kelp-full-stack.herokuapp.com/">🎣 Kelp 🐟</a>
 <p>A fullstack clone of Yelp, showing sea-based businesses in the Manhattan area! frontend React/Redux, backend Ruby on Rails application</p>
 
 <a href="https://willcpierson.github.io/local-locator-app/"> 🎵 WaveSense 🎼 </a>
